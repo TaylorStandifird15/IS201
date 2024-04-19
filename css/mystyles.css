@@ -1,0 +1,65 @@
+.whyvacation{
+    font-style: normal;
+    font-size: 14pt;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.common{
+    background-color: rgb(228, 222, 222);
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+
+}
+.leftbody{
+    top: 109px;
+    left: 5px;
+    width: 300px;
+    bottom: 209px;
+
+}
+.rightbody{
+    top: 109px;
+    right: 5px;
+    width: 300px;
+    bottom: 209px;
+
+}
+.middlebody{
+    top: 109px;
+    left: 309px;
+    right: 309px;
+    bottom: 209px;
+}
+.bottombody{
+    top: 577px;
+    bottom: -500px;
+    left: 5px;
+text-align: center;
+    right: 5px;
+    padding: 20px;
+
+}
+.images{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+    border: 1px solid black;
+}
+.videos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    border: 1px solid black;
+}
+.textalign{
+    text-align: center;
+}
